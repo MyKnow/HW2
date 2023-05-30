@@ -33,3 +33,15 @@ Disassembly of section .text:
   64:	03e00008 	jr	ra
   68:	00000000 	nop
   6c:	00000000 	nop
+
+
+addiu 	구현 완료
+sw	구현 완료
+move 	구현 완료
+b	구현 완료
+nop	구현 완료
+lw	
+slti	구현 완료
+bnez	구현 완료
+addu	구현 완료
+jr
